@@ -16,9 +16,8 @@ Use Terraform to set up a simple infrastructure in your Oracle Cloud Infrastruct
 ###    A Security List for the Public Subnet
 ###    Ingress & egress Rules for the Private and Public Subnets
 
-=========================================================================================================
+================================================================================================
 _Refrances⬇️
-==================
 
 #### https://docs.oracle.com/en-us/iaas/developer-tutorials/tutorials/tf-simple-infrastructure/01-summary.htm
 #### https://docs.oracle.com/en-us/iaas/developer-tutorials/tutorials/tf-provider/01-summary.htm
