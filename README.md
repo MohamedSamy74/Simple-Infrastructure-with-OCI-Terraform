@@ -7,14 +7,14 @@ Use Terraform to set up a simple infrastructure in your Oracle Cloud Infrastruct
 ## - A compartment
 ## - A compute instance
 ## - A virtual cloud network that includes: 
-###    A private subnet
-###    A public subnet
-###    A NAT Gateway
-###    An Internet Gateway
-###    A Service Gateway
-###    A Security List for the Private Subnet
-###    A Security List for the Public Subnet
-###    Ingress & egress Rules for the Private and Public Subnets
+*    A private subnet
+*    A public subnet
+*    A NAT Gateway
+*    An Internet Gateway
+*    A Service Gateway
+*    A Security List for the Private Subnet
+*    A Security List for the Public Subnet
+*    Ingress & egress Rules for the Private and Public Subnets
 
 ================================================================================================
 _Refrances⬇️
