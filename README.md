@@ -14,5 +14,4 @@ Use Terraform to set up a simple infrastructure in your Oracle Cloud Infrastruct
 ###    A Service Gateway
 ###    A Security List for the Private Subnet
 ###    A Security List for the Public Subnet
-###    Ingress & egress Rules for the Private and Public Subnets
-
+####    Ingress & egress Rules for the Private and Public Subnets
